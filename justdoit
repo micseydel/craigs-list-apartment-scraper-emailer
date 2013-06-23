@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./scrape_phone_numbers.py
+./separate_contact_info.py
+./do_emails.py
